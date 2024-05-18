@@ -1,2 +1,3 @@
 # College-
-College repository t lo maintain college data base
+College repository to maintain college data base
+print("hello student")
